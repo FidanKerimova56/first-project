@@ -1,0 +1,47 @@
+
+
+.img-1 > img {
+  width: 315px;
+  height: 315px;
+}
+
+.img-1 {
+  margin-left: 190px;
+}
+.img-2 {
+  display: inline-block;
+  margin-right: 132px;
+}
+.img-2 > img {
+  width: 232px;
+  height: 203px;
+}
+.text-container > h1 {
+  font-size: 55px;
+  line-height: 101.38%;
+  width: 365px;
+  height: 93px;
+}
+p.text {
+  font-size: 24px;
+  line-height: 150%;
+  width: 662px;
+}
+
+.footer-text {
+  width: 150px;
+  height: 39px;
+  font-size: 25px;
+  line-height: 130%;
+}
+.first-second{
+    width: 150px;
+height: 39px;
+font-size: 18px;
+line-height: 130%;
+}
+.footer{
+    align-items: center;
+    margin-top: 70px;
+    
+}
